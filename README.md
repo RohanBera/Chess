@@ -4,15 +4,15 @@ This is a Simple Chess AI implemented completely in python. We started this as a
 
 ###Goals to achieve:
 
-1. Make the Chess Engine works. 
-2. Make the Chess Engine follow rules.
-3. Optimise movements of Chess Engine.
-4. Optimise the choices it makes.
-5. Train the engine along with model data.
-6. Create a neural network to make the engine optimise moves by itself.
-7. Train the neural network with the model data. Physically test the AI.
-8. Pit our AI against other AI's
-9. Our final goal is to match upto AlphaZero.
+- [x] Make the Chess Engine works. 
+- [ ] Make the Chess Engine follow rules.
+- [ ] Optimise movements of Chess Engine.
+- [ ] Optimise the choices it makes.
+- [ ] Train the engine along with model data.
+- [ ] Create a neural network to make the engine optimise moves by itself.
+- [ ] Train the neural network with the model data. Physically test the AI.
+- [ ] Pit our AI against other AI's
+- [ ] Our final goal is to match upto AlphaZero.
 
 
 We used the Databases from the [FICS Database](https://ficsgames.org/download "FICS Games") from `www.ficsgames.org/download`
