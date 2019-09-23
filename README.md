@@ -15,6 +15,9 @@ This is a Simple Chess AI implemented completely in python. We started this as a
 - [ ] Our final goal is to match upto AlphaZero.
 
 
-We used the Databases from the [FICS Database](https://ficsgames.org/download "FICS Games") from `www.ficsgames.org/download`
+We used the Databases from the [FICS Database](https://ficsgames.org/download "FICS Games") from `www.ficsgames.org/download`.
 
-In python we used the [chess](https://python-chess.readthedocs.io/en/latest/index.html) library to read the PGN files and train our model
+Click on the [link](https://drive.google.com/open?id=1YFH6DmgUp0rWMPWRCYBsIHlCOydKRkqI) to get the databases we used.
+
+In python we used the [chess](https://python-chess.readthedocs.io/en/latest/index.html) library to read the PGN files and train our model.
+
