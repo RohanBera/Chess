@@ -4,7 +4,7 @@ This is a Simple Chess AI implemented completely in python. We started this as a
 
 ### Goals to achieve:
 
-- [ ] Make the Chess Engine works. 
+- [x] Make the Chess Engine works. 
 - [ ] Make the Chess Engine follow rules.
 - [ ] Optimise movements of Chess Engine.
 - [ ] Optimise the choices it makes.
