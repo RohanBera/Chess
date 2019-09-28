@@ -1,0 +1,5 @@
+Chess:
+
+python-chess
+numpy>=1.16
+
