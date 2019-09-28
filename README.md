@@ -17,7 +17,7 @@ This is a Simple Chess AI implemented completely in python. We started this as a
 
 We used the Databases from the [FICS Database](https://ficsgames.org/download "FICS Games") from `www.ficsgames.org/download`.
 
-Click on the [link](https://drive.google.com/open?id=1YFH6DmgUp0rWMPWRCYBsIHlCOydKRkqI) to get the databases we used.
+Click [here](https://drive.google.com/open?id=1YFH6DmgUp0rWMPWRCYBsIHlCOydKRkqI) to get the databases we used.
 
 In python we used the [chess](https://python-chess.readthedocs.io/en/latest/index.html) library to read the PGN files and train our model.
 
