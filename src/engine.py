@@ -54,4 +54,5 @@ def main():
     except IndexError:
         maker(board,m_maker)
     print("\nHope you enjoyed playing. Check out the source code on github\n")
-main()
+if __name__ == main():
+    main()

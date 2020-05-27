@@ -2,4 +2,4 @@ Chess:
 
 python-chess
 numpy>=1.16
-
+pgnparser==1.0
